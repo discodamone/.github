@@ -1,0 +1,24 @@
+{
+	"commands": [
+		{
+			"name": "Customize commands",
+			"path": "/mbellani/.github/edit/master/__commands.json",
+			"type": "Custom"
+		},
+		{
+			"name": "Dashboard",
+			"path": "/",
+			"type": "Custom"
+		},
+		{
+			"name": "My Notifications",
+			"path": "/notifications?query=reason%3Amention",
+			"type": "Custom"
+		},
+		{
+			"name": "Issues",
+			"path": "./issues",
+			"type": "Custom"
+		}
+  ]
+}
